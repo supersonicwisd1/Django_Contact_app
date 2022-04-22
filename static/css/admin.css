@@ -1,0 +1,20 @@
+#header {
+    background: #2D5A27 !important;
+}
+
+caption,
+caption a {
+    background-color: #ffba00 !important;
+    color: #000000 !important;
+}
+
+.breadcrumbs,
+h2,
+[type='submit'] {
+    background-color: #ffba00 !important;
+    color: #000000 !important;
+}
+
+.breadcrumbs a {
+    color: #000000 !important;
+}
